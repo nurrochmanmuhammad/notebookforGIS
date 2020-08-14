@@ -1,0 +1,516 @@
+,ID,lokasi,popularity,nightlife_index,restaurant count,top_cuisines1,top_cuisines2,top_cuisines3,top_cuisines4,top_cuisines5
+0,1,Sunter,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+1,2,Tanjung Priok,2.13,0.55,9,Indonesian,Seafood,Coffee,Chinese,Bakmi
+2,3,Tanjung Priok,2.13,0.55,9,Indonesian,Seafood,Coffee,Chinese,Bakmi
+3,4,Tanjung Priok,2.13,0.55,9,Indonesian,Seafood,Coffee,Chinese,Bakmi
+4,5,Cibubur,2.61,0.0,9,Indonesian,Coffee,Western,Desserts,Bakmi
+5,6,Cibubur,2.61,0.0,9,Indonesian,Coffee,Western,Desserts,Bakmi
+6,7,Cibubur,2.61,0.0,9,Indonesian,Coffee,Western,Desserts,Bakmi
+7,8,Cipayung,2.18,0.0,9,Coffee,Indonesian,Beverages,Fusion,Betawi
+8,9,Cipayung,2.18,0.0,9,Coffee,Indonesian,Beverages,Fusion,Betawi
+9,10,Cipayung,2.18,0.0,9,Coffee,Indonesian,Beverages,Fusion,Betawi
+10,11,Taman Mini,2.77,0.0,9,Indonesian,Coffee,Jawa,Fast Food,Beverages
+11,12,Pinang Ranti,3.36,0.0,9,Indonesian,Beverages,Coffee,Fast Food,Desserts
+12,13,Pinang Ranti,3.36,0.0,9,Indonesian,Beverages,Coffee,Fast Food,Desserts
+13,14,Makasar,1.97,0.04,9,Coffee,Cafe,Indonesian,Tea,Snacks
+14,15,Makasar,1.97,0.04,9,Coffee,Cafe,Indonesian,Tea,Snacks
+15,16,Kalimalang,3.36,0.16,9,Indonesian,Coffee,Jawa,Bakery,Bakmi
+16,17,Pondok Bambu,3.65,0.08,9,Coffee,Beverages,Indonesian,Desserts,Street Food
+17,18,Pondok Bambu,3.65,0.08,9,Coffee,Beverages,Indonesian,Desserts,Street Food
+18,19,Cipondoh,2.43,0.0,9,Indonesian,Coffee,Fast Food,Jawa,Bakmi
+19,20,Jatinegara,3.7,0.2,9,Indonesian,Coffee,Desserts,Fast Food,Beverages
+20,21,Cipondoh,3.78,0.39,9,Coffee,Indonesian,Desserts,Beverages,Bakery
+21,22,Pulo Gadung,3.96,0.66,9,Indonesian,Coffee,Chinese,Desserts,Jawa
+22,23,Benda,3.78,0.39,9,Coffee,Indonesian,Desserts,Beverages,Bakery
+23,24,Pulo Gadung,3.96,0.66,9,Indonesian,Coffee,Chinese,Desserts,Jawa
+24,25,Benda,2.58,0.04,9,Bakery,Coffee,Desserts,Indonesian,Tea
+25,26,Pulo Gadung,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+26,27,Benda,2.58,0.04,9,Bakery,Coffee,Desserts,Indonesian,Tea
+27,28,Kelapa Gading,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+28,29,Benda,2.58,0.04,9,Bakery,Coffee,Desserts,Indonesian,Tea
+29,30,Kelapa Gading,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+30,31,Benda,2.58,0.04,9,Bakery,Coffee,Desserts,Indonesian,Tea
+31,32,Kelapa Gading,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+32,33,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+33,34,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+34,35,Tanjung Priok,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+35,36,Tanjung Priok,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+36,37,Cibubur,2.61,0.0,9,Indonesian,Coffee,Western,Desserts,Bakmi
+37,38,Cibubur,2.61,0.0,9,Indonesian,Coffee,Western,Desserts,Bakmi
+38,39,Cibubur,2.61,0.0,9,Indonesian,Coffee,Western,Desserts,Bakmi
+39,40,Cipayung,2.18,0.0,9,Coffee,Indonesian,Beverages,Fusion,Betawi
+40,41,Cipayung,2.18,0.0,9,Coffee,Indonesian,Beverages,Fusion,Betawi
+41,42,Cipayung,2.18,0.0,9,Coffee,Indonesian,Beverages,Fusion,Betawi
+42,43,Cipayung,2.18,0.0,9,Coffee,Indonesian,Beverages,Fusion,Betawi
+43,44,Taman Mini,2.77,0.0,9,Indonesian,Coffee,Jawa,Fast Food,Beverages
+44,45,Pinang Ranti,1.97,0.04,9,Coffee,Cafe,Indonesian,Tea,Snacks
+45,46,Pondok Gede,1.97,0.04,9,Coffee,Cafe,Indonesian,Tea,Snacks
+46,47,Pondok Gede,1.97,0.04,9,Coffee,Cafe,Indonesian,Tea,Snacks
+47,48,Pondok Gede,3.36,0.16,9,Indonesian,Coffee,Jawa,Bakery,Bakmi
+48,49,Kalimalang,3.65,0.08,9,Coffee,Beverages,Indonesian,Desserts,Street Food
+49,50,Cipondoh,2.43,0.0,9,Indonesian,Coffee,Fast Food,Jawa,Bakmi
+50,51,Pondok Bambu,3.65,0.08,9,Coffee,Beverages,Indonesian,Desserts,Street Food
+51,52,Cipondoh,2.43,0.0,9,Indonesian,Coffee,Fast Food,Jawa,Bakmi
+52,53,Klender,3.7,0.2,9,Indonesian,Coffee,Desserts,Fast Food,Beverages
+53,54,Daan Mogot,3.78,0.39,9,Coffee,Indonesian,Desserts,Beverages,Bakery
+54,55,Klender,3.7,0.2,9,Indonesian,Coffee,Desserts,Fast Food,Beverages
+55,56,Daan Mogot,3.78,0.39,9,Coffee,Indonesian,Desserts,Beverages,Bakery
+56,57,Pulo Gadung,3.96,0.66,9,Indonesian,Coffee,Chinese,Desserts,Jawa
+57,58,Benda,4.06,2.78,9,Indonesian,Chinese,Bakmi,Coffee,Beverages
+58,59,Pulo Gadung,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+59,60,Benda,4.06,2.78,9,Indonesian,Chinese,Bakmi,Coffee,Beverages
+60,61,Kelapa Gading,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+61,62,Benda,2.58,0.04,9,Bakery,Coffee,Desserts,Indonesian,Tea
+62,63,Kelapa Gading,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+63,64,Benda,2.58,0.04,9,Bakery,Coffee,Desserts,Indonesian,Tea
+64,65,Kelapa Gading,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+65,66,Kelapa Gading,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+66,67,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+67,68,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+68,69,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+69,70,Jatisampurna,2.68,0.0,9,Indonesian,Beverages,Coffee,Desserts,Cafe
+70,71,Jatisampurna,2.68,0.0,9,Indonesian,Beverages,Coffee,Desserts,Cafe
+71,72,Pondok Melati,2.16,0.0,9,Indonesian,Jawa,Coffee,Bakery,Cafe
+72,73,Pondok Melati,2.16,0.0,9,Indonesian,Jawa,Coffee,Bakery,Cafe
+73,74,Cipayung,2.16,0.0,9,Indonesian,Jawa,Coffee,Bakery,Cafe
+74,75,Pondok Melati,2.16,0.0,9,Indonesian,Jawa,Coffee,Bakery,Cafe
+75,76,Pondok Melati,2.16,0.0,9,Indonesian,Jawa,Coffee,Bakery,Cafe
+76,77,Pondok Gede,1.97,0.04,9,Coffee,Cafe,Indonesian,Tea,Snacks
+77,78,Pondok Gede,1.97,0.04,9,Coffee,Cafe,Indonesian,Tea,Snacks
+78,79,Kalimalang,3.36,0.16,9,Indonesian,Coffee,Jawa,Bakery,Bakmi
+79,80,Pondok Bambu,3.82,0.04,9,Indonesian,Coffee,Jawa,Bakery,Beverages
+80,81,Cipondoh,2.43,0.0,9,Indonesian,Coffee,Fast Food,Jawa,Bakmi
+81,82,Klender,3.7,0.2,9,Indonesian,Coffee,Desserts,Fast Food,Beverages
+82,83,Daan Mogot,3.78,0.39,9,Coffee,Indonesian,Desserts,Beverages,Bakery
+83,84,Klender,3.7,0.2,9,Indonesian,Coffee,Desserts,Fast Food,Beverages
+84,85,Daan Mogot,3.78,0.39,9,Coffee,Indonesian,Desserts,Beverages,Bakery
+85,86,Pulo Gadung,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+86,87,Daan Mogot,3.78,0.39,9,Coffee,Indonesian,Desserts,Beverages,Bakery
+87,88,Pulo Gadung,3.96,0.66,9,Indonesian,Coffee,Chinese,Desserts,Jawa
+88,89,Cengkareng,3.78,0.39,9,Coffee,Indonesian,Desserts,Beverages,Bakery
+89,90,Kelapa Gading,3.96,0.66,9,Indonesian,Coffee,Chinese,Desserts,Jawa
+90,91,Cengkareng,4.06,2.78,9,Indonesian,Chinese,Bakmi,Coffee,Beverages
+91,92,Kelapa Gading,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+92,93,Cengkareng,4.06,2.78,9,Indonesian,Chinese,Bakmi,Coffee,Beverages
+93,94,Kelapa Gading,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+94,95,Benda,2.58,0.04,9,Bakery,Coffee,Desserts,Indonesian,Tea
+95,96,Kelapa Gading,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+96,97,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+97,98,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+98,99,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+99,100,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+100,101,Pondok Melati,2.16,0.0,9,Indonesian,Jawa,Coffee,Bakery,Cafe
+101,102,Pondok Melati,2.16,0.0,9,Indonesian,Jawa,Coffee,Bakery,Cafe
+102,103,Ciledug,2.62,0.16,9,Indonesian,Coffee,Bakso,Fast Food,Beverages
+103,104,Karang Tengah,2.33,0.08,9,Indonesian,Coffee,Tea,Beverages,Bakery
+104,105,Pondok Gede,1.97,0.04,9,Coffee,Cafe,Indonesian,Tea,Snacks
+105,106,Karang Tengah,2.33,0.08,9,Indonesian,Coffee,Tea,Beverages,Bakery
+106,107,Kalimalang,3.36,0.16,9,Indonesian,Coffee,Jawa,Bakery,Bakmi
+107,108,Cipondoh,2.33,0.08,9,Indonesian,Coffee,Tea,Beverages,Bakery
+108,109,Duren Sawit,3.82,0.04,9,Indonesian,Coffee,Jawa,Bakery,Beverages
+109,110,Daan Mogot,3.78,0.39,9,Coffee,Indonesian,Desserts,Beverages,Bakery
+110,111,Duren Sawit,3.82,0.04,9,Indonesian,Coffee,Jawa,Bakery,Beverages
+111,112,Daan Mogot,3.78,0.39,9,Coffee,Indonesian,Desserts,Beverages,Bakery
+112,113,Klender,3.7,0.2,9,Indonesian,Coffee,Desserts,Fast Food,Beverages
+113,114,Daan Mogot,3.78,0.39,9,Coffee,Indonesian,Desserts,Beverages,Bakery
+114,115,Cakung,3.7,0.2,9,Indonesian,Coffee,Desserts,Fast Food,Beverages
+115,116,Cengkareng,4.06,2.78,9,Indonesian,Chinese,Bakmi,Coffee,Beverages
+116,117,Cakung,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+117,118,Cengkareng,4.06,2.78,9,Indonesian,Chinese,Bakmi,Coffee,Beverages
+118,119,Pulo Gadung,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+119,120,Cengkareng,4.06,2.78,9,Indonesian,Chinese,Bakmi,Coffee,Beverages
+120,121,Kelapa Gading,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+121,122,Cengkareng,4.06,2.78,9,Indonesian,Chinese,Bakmi,Coffee,Beverages
+122,123,Kelapa Gading,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+123,124,Benda,5.0,4.84,9,Indonesian,Chinese,Coffee,Desserts,Japanese
+124,125,Kelapa Gading,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+125,126,Koja,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+126,127,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+127,128,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+128,129,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+129,130,Larangan,3.57,0.68,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+130,131,Meruya,3.8,2.65,9,Indonesian,Coffee,Jawa,Beverages,Cafe
+131,132,Pondok Gede,1.97,0.04,9,Coffee,Cafe,Indonesian,Tea,Snacks
+132,133,Meruya,3.8,2.65,9,Indonesian,Coffee,Jawa,Beverages,Cafe
+133,134,Duren Sawit,3.36,0.16,9,Indonesian,Coffee,Jawa,Bakery,Bakmi
+134,135,Karang Tengah,4.98,3.35,9,Indonesian,Coffee,Desserts,Beverages,Chinese
+135,136,Duren Sawit,3.82,0.04,9,Indonesian,Coffee,Jawa,Bakery,Beverages
+136,137,Puri Indah,4.98,3.35,9,Indonesian,Coffee,Desserts,Beverages,Chinese
+137,138,Klender,3.7,0.2,9,Indonesian,Coffee,Desserts,Fast Food,Beverages
+138,139,Puri Indah,4.98,3.35,9,Indonesian,Coffee,Desserts,Beverages,Chinese
+139,140,Cakung,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+140,141,Daan Mogot,3.78,0.39,9,Coffee,Indonesian,Desserts,Beverages,Bakery
+141,142,Cakung,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+142,143,Cengkareng,4.06,2.78,9,Indonesian,Chinese,Bakmi,Coffee,Beverages
+143,144,Cakung,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+144,145,Cengkareng,4.06,2.78,9,Indonesian,Chinese,Bakmi,Coffee,Beverages
+145,146,Kelapa Gading,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+146,147,Cengkareng,4.06,2.78,9,Indonesian,Chinese,Bakmi,Coffee,Beverages
+147,148,Kelapa Gading,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+148,149,Pantai Indah Kapuk,5.0,4.84,9,Indonesian,Chinese,Coffee,Desserts,Japanese
+149,150,Kelapa Gading,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+150,151,Pantai Indah Kapuk,5.0,4.84,9,Indonesian,Chinese,Coffee,Desserts,Japanese
+151,152,Kelapa Gading,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+152,153,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+153,154,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+154,155,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+155,156,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+156,157,Larangan,3.57,0.68,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+157,158,Larangan,3.8,2.65,9,Indonesian,Coffee,Jawa,Beverages,Cafe
+158,159,Meruya,3.8,2.65,9,Indonesian,Coffee,Jawa,Beverages,Cafe
+159,160,Meruya,3.8,2.65,9,Indonesian,Coffee,Jawa,Beverages,Cafe
+160,161,Pondok Gede,3.36,0.16,9,Indonesian,Coffee,Jawa,Bakery,Bakmi
+161,162,Puri Indah,4.98,3.35,9,Indonesian,Coffee,Desserts,Beverages,Chinese
+162,163,Duren Sawit,3.82,0.04,9,Indonesian,Coffee,Jawa,Bakery,Beverages
+163,164,Puri Indah,4.98,3.35,9,Indonesian,Coffee,Desserts,Beverages,Chinese
+164,165,Bekasi Barat,2.56,0.0,9,Indonesian,Jawa,Fast Food,Bakso,Coffee
+165,166,Puri Indah,4.98,3.35,9,Indonesian,Coffee,Desserts,Beverages,Chinese
+166,167,Bekasi Barat,2.56,0.0,9,Indonesian,Jawa,Fast Food,Bakso,Coffee
+167,168,Cengkareng,4.06,2.78,9,Indonesian,Chinese,Bakmi,Coffee,Beverages
+168,169,Cakung,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+169,170,Cengkareng,4.06,2.78,9,Indonesian,Chinese,Bakmi,Coffee,Beverages
+170,171,Cakung,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+171,172,Cengkareng,4.06,2.78,9,Indonesian,Chinese,Bakmi,Coffee,Beverages
+172,173,Cakung,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+173,174,Pantai Indah Kapuk,5.0,4.84,9,Indonesian,Chinese,Coffee,Desserts,Japanese
+174,175,Cakung,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+175,176,Pantai Indah Kapuk,5.0,4.84,9,Indonesian,Chinese,Coffee,Desserts,Japanese
+176,177,Cakung,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+177,178,Pantai Indah Kapuk,5.0,4.84,9,Indonesian,Chinese,Coffee,Desserts,Japanese
+178,179,Cakung,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+179,180,Kelapa Gading,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+180,181,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+181,182,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+182,183,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+183,184,Bintaro,3.2,0.92,9,Indonesian,Coffee,Jawa,Beverages,Cafe
+184,185,Bintaro,4.46,0.84,9,Coffee,Indonesian,Cafe,Desserts,Tea
+185,186,Larangan,3.57,0.68,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+186,187,Larangan,3.57,0.68,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+187,188,Larangan,3.57,0.68,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+188,189,Meruya,3.8,2.65,9,Indonesian,Coffee,Jawa,Beverages,Cafe
+189,190,Meruya,3.8,2.65,9,Indonesian,Coffee,Jawa,Beverages,Cafe
+190,191,Meruya,4.98,3.35,9,Indonesian,Coffee,Desserts,Beverages,Chinese
+191,192,Puri Indah,4.98,3.35,9,Indonesian,Coffee,Desserts,Beverages,Chinese
+192,193,Bekasi Barat,2.56,0.0,9,Indonesian,Jawa,Fast Food,Bakso,Coffee
+193,194,Puri Indah,4.98,3.35,9,Indonesian,Coffee,Desserts,Beverages,Chinese
+194,195,Bekasi Barat,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+195,196,Green Ville,4.38,0.74,9,Indonesian,Coffee,Chinese,Bakmi,Beverages
+196,197,Cakung,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+197,198,Cengkareng,4.38,0.74,9,Indonesian,Coffee,Chinese,Bakmi,Beverages
+198,199,Cakung,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+199,200,Pantai Indah Kapuk,5.0,4.84,9,Indonesian,Chinese,Coffee,Desserts,Japanese
+200,201,Cakung,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+201,202,Pantai Indah Kapuk,5.0,4.84,9,Indonesian,Chinese,Coffee,Desserts,Japanese
+202,203,Cakung,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+203,204,Pantai Indah Kapuk,5.0,4.84,9,Indonesian,Chinese,Coffee,Desserts,Japanese
+204,205,Cakung,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+205,206,Pantai Indah Kapuk,5.0,4.84,9,Indonesian,Chinese,Coffee,Desserts,Japanese
+206,207,Cakung,3.63,0.0,9,Indonesian,Jawa,Fast Food,Bakery,Coffee
+207,208,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+208,209,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+209,210,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+210,211,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+211,212,Ciputat Timur,4.46,0.84,9,Coffee,Indonesian,Cafe,Desserts,Tea
+212,213,Bintaro,4.46,0.84,9,Coffee,Indonesian,Cafe,Desserts,Tea
+213,214,Bintaro,4.46,0.84,9,Coffee,Indonesian,Cafe,Desserts,Tea
+214,215,Kebayoran Lama,5.0,3.72,9,Indonesian,Coffee,Desserts,Beverages,Japanese
+215,216,Larangan,5.0,3.72,9,Indonesian,Coffee,Desserts,Beverages,Japanese
+216,217,Larangan,3.8,2.65,9,Indonesian,Coffee,Jawa,Beverages,Cafe
+217,218,Meruya,4.09,0.87,9,Indonesian,Coffee,Beverages,Jawa,Desserts
+218,219,Kebon Jeruk,4.09,0.87,9,Indonesian,Coffee,Beverages,Jawa,Desserts
+219,220,Kedoya,4.09,0.87,9,Indonesian,Coffee,Beverages,Jawa,Desserts
+220,221,Kedoya,4.3,1.76,9,Indonesian,Chinese,Coffee,Bakmi,Bakery
+221,222,Green Ville,4.3,1.76,9,Indonesian,Chinese,Coffee,Bakmi,Bakery
+222,223,Green Ville,4.38,0.74,9,Indonesian,Coffee,Chinese,Bakmi,Beverages
+223,224,Cakung,2.56,0.0,9,Indonesian,Jawa,Fast Food,Bakso,Coffee
+224,225,Pantai Indah Kapuk,5.0,4.84,9,Indonesian,Chinese,Coffee,Desserts,Japanese
+225,226,Medan Satria,3.63,0.0,9,Indonesian,Jawa,Fast Food,Bakery,Coffee
+226,227,Pantai Indah Kapuk,5.0,4.84,9,Indonesian,Chinese,Coffee,Desserts,Japanese
+227,228,Cakung,1.69,0.0,9,Indonesian,Coffee,Bakery,Chinese,Fast Food
+228,229,Pantai Indah Kapuk,5.0,4.84,9,Indonesian,Chinese,Coffee,Desserts,Japanese
+229,230,Medan Satria,3.63,0.0,9,Indonesian,Jawa,Fast Food,Bakery,Coffee
+230,231,Pantai Indah Kapuk,5.0,4.84,9,Indonesian,Chinese,Coffee,Desserts,Japanese
+231,232,Medan Satria,3.63,0.0,9,Indonesian,Jawa,Fast Food,Bakery,Coffee
+232,233,Medan Satria,3.63,0.0,9,Indonesian,Jawa,Fast Food,Bakery,Coffee
+233,234,Medan Satria,3.63,0.0,9,Indonesian,Jawa,Fast Food,Bakery,Coffee
+234,235,Medan Satria,3.63,0.0,9,Indonesian,Jawa,Fast Food,Bakery,Coffee
+235,236,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+236,237,Koja,2.43,0.0,9,Indonesian,Fast Food,Jawa,Beverages,Coffee
+237,238,Ciputat Timur,3.2,0.92,9,Indonesian,Coffee,Jawa,Beverages,Cafe
+238,239,Ciputat Timur,3.2,0.92,9,Indonesian,Coffee,Jawa,Beverages,Cafe
+239,240,Ciputat Timur,4.21,2.95,9,Indonesian,Coffee,Beverages,Western,Jawa
+240,241,Bintaro,5.0,3.72,9,Coffee,Indonesian,Desserts,Japanese,Tea
+241,242,Bintaro,4.46,0.84,9,Coffee,Indonesian,Cafe,Desserts,Tea
+242,243,Bintaro,4.46,0.84,9,Coffee,Indonesian,Cafe,Desserts,Tea
+243,244,Kebayoran Lama,5.0,3.72,9,Indonesian,Coffee,Desserts,Beverages,Japanese
+244,245,Kebayoran Lama,5.0,3.72,9,Indonesian,Coffee,Desserts,Beverages,Japanese
+245,246,Kebayoran Lama,5.0,3.72,9,Indonesian,Coffee,Desserts,Beverages,Japanese
+246,247,Kebon Jeruk,4.09,0.87,9,Indonesian,Coffee,Beverages,Jawa,Desserts
+247,248,Kebon Jeruk,4.38,0.74,9,Indonesian,Coffee,Chinese,Bakmi,Beverages
+248,249,Kedoya,4.38,0.74,9,Indonesian,Coffee,Chinese,Bakmi,Beverages
+249,250,Green Ville,4.38,0.74,9,Indonesian,Coffee,Chinese,Bakmi,Beverages
+250,251,Green Ville,4.38,0.74,9,Indonesian,Coffee,Chinese,Bakmi,Beverages
+251,252,Jelambar,4.13,0.74,9,Indonesian,Chinese,Coffee,Beverages,Bakmi
+252,253,Pantai Indah Kapuk,4.13,0.74,9,Indonesian,Chinese,Coffee,Beverages,Bakmi
+253,254,Pantai Indah Kapuk,5.0,4.84,9,Indonesian,Chinese,Coffee,Desserts,Japanese
+254,255,Pantai Indah Kapuk,5.0,0.69,9,Chinese,Indonesian,Coffee,Beverages,Desserts
+255,256,Pantai Indah Kapuk,5.0,1.91,9,Indonesian,Chinese,Coffee,Beverages,Desserts
+256,257,Cinere,3.4,0.0,9,Indonesian,Coffee,Desserts,Jawa,Bakery
+257,258,Lebak Bulus,4.21,2.95,9,Indonesian,Coffee,Beverages,Western,Jawa
+258,259,Lebak Bulus,4.21,2.95,9,Indonesian,Coffee,Beverages,Western,Jawa
+259,260,Pondok Indah,5.0,3.72,9,Coffee,Indonesian,Desserts,Japanese,Tea
+260,261,Pondok Indah,5.0,3.72,9,Coffee,Indonesian,Desserts,Japanese,Tea
+261,262,Pondok Indah,5.0,3.72,9,Coffee,Indonesian,Desserts,Japanese,Tea
+262,263,Gandaria,5.0,3.72,9,Coffee,Indonesian,Desserts,Japanese,Tea
+263,264,Kebayoran Lama,5.0,4.56,9,Indonesian,Coffee,Japanese,Desserts,Beverages
+264,265,Kebayoran Lama,5.0,3.72,9,Indonesian,Coffee,Desserts,Beverages,Japanese
+265,266,Kebayoran Lama,4.0,2.92,9,Indonesian,Coffee,Beverages,Desserts,Tea
+266,267,Palmerah,4.46,3.3,9,Indonesian,Coffee,Desserts,Beverages,Chinese
+267,268,Kebon Jeruk,4.46,3.3,9,Indonesian,Coffee,Desserts,Beverages,Chinese
+268,269,Tanjung Duren,5.0,3.59,9,Indonesian,Beverages,Coffee,Desserts,Chinese
+269,270,Tanjung Duren,5.0,3.59,9,Indonesian,Beverages,Coffee,Desserts,Chinese
+270,271,Jelambar,4.13,0.74,9,Indonesian,Chinese,Coffee,Beverages,Bakmi
+271,272,Jelambar,4.13,0.74,9,Indonesian,Chinese,Coffee,Beverages,Bakmi
+272,273,Penjaringan,4.73,2.79,9,Indonesian,Chinese,Beverages,Coffee,Desserts
+273,274,Muara Karang,5.0,0.69,9,Chinese,Indonesian,Coffee,Beverages,Desserts
+274,275,Pluit,5.0,1.91,9,Indonesian,Chinese,Coffee,Beverages,Desserts
+275,276,Cinere,3.4,0.0,9,Indonesian,Coffee,Desserts,Jawa,Bakery
+276,277,Lebak Bulus,4.91,2.96,9,Coffee,Indonesian,Beverages,Jawa,Desserts
+277,278,Lebak Bulus,4.21,2.95,9,Indonesian,Coffee,Beverages,Western,Jawa
+278,279,Pondok Indah,4.91,2.96,9,Coffee,Indonesian,Beverages,Jawa,Desserts
+279,280,Pondok Indah,5.0,3.72,9,Coffee,Indonesian,Desserts,Japanese,Tea
+280,281,Pondok Indah,5.0,3.72,9,Coffee,Indonesian,Desserts,Japanese,Tea
+281,282,Pondok Indah,5.0,3.72,9,Coffee,Indonesian,Desserts,Japanese,Tea
+282,283,Blok M,4.98,4.04,9,Indonesian,Coffee,Desserts,Japanese,Beverages
+283,284,Kebayoran Lama,5.0,5.0,9,Coffee,Indonesian,Desserts,Japanese,Beverages
+284,285,Kebayoran Lama,5.0,5.0,9,Coffee,Indonesian,Desserts,Japanese,Beverages
+285,286,Palmerah,4.0,2.92,9,Indonesian,Coffee,Beverages,Desserts,Tea
+286,287,Palmerah,4.46,3.3,9,Indonesian,Coffee,Desserts,Beverages,Chinese
+287,288,Tanjung Duren,5.0,3.59,9,Indonesian,Beverages,Coffee,Desserts,Chinese
+288,289,Tanjung Duren,4.95,2.85,9,Indonesian,Beverages,Coffee,Desserts,Chinese
+289,290,Jelambar,4.13,0.74,9,Indonesian,Chinese,Coffee,Beverages,Bakmi
+290,291,Jelambar,4.13,0.74,9,Indonesian,Chinese,Coffee,Beverages,Bakmi
+291,292,Penjaringan,4.73,2.79,9,Indonesian,Chinese,Beverages,Coffee,Desserts
+292,293,Pluit,4.73,2.79,9,Indonesian,Chinese,Beverages,Coffee,Desserts
+293,294,Pluit,5.0,1.91,9,Indonesian,Chinese,Coffee,Beverages,Desserts
+294,295,Pluit,5.0,1.91,9,Indonesian,Chinese,Coffee,Beverages,Desserts
+295,296,Limo,2.53,0.0,9,Indonesian,Coffee,Italian,Betawi,Cafe
+296,297,Jagakarsa,2.53,0.0,9,Indonesian,Coffee,Italian,Betawi,Cafe
+297,298,Cinere,3.4,0.0,9,Indonesian,Coffee,Desserts,Jawa,Bakery
+298,299,Fatmawati,3.4,0.0,9,Indonesian,Coffee,Desserts,Jawa,Bakery
+299,300,Fatmawati,4.91,2.96,9,Coffee,Indonesian,Beverages,Jawa,Desserts
+300,301,Fatmawati,4.91,2.96,9,Coffee,Indonesian,Beverages,Jawa,Desserts
+301,302,Fatmawati,4.91,2.96,9,Coffee,Indonesian,Beverages,Jawa,Desserts
+302,303,Fatmawati,4.91,2.96,9,Coffee,Indonesian,Beverages,Jawa,Desserts
+303,304,Fatmawati,4.91,2.96,9,Coffee,Indonesian,Beverages,Jawa,Desserts
+304,305,Melawai,4.95,4.62,9,Indonesian,Coffee,Western,Beverages,Japanese
+305,306,Blok M,5.0,5.0,9,Indonesian,Coffee,Western,Beverages,Japanese
+306,307,Senayan,5.0,5.0,9,Coffee,Indonesian,Desserts,Japanese,Beverages
+307,308,Senayan,5.0,5.0,9,Coffee,Indonesian,Desserts,Japanese,Beverages
+308,309,Slipi,3.55,3.08,9,Indonesian,Coffee,Beverages,Jawa,Desserts
+309,310,Slipi,3.55,3.08,9,Indonesian,Coffee,Beverages,Jawa,Desserts
+310,311,Slipi,3.55,3.08,9,Indonesian,Coffee,Beverages,Jawa,Desserts
+311,312,Grogol,4.47,0.72,9,Indonesian,Coffee,Beverages,Jawa,Chinese
+312,313,Tambora,4.44,1.16,9,Chinese,Indonesian,Coffee,Beverages,Bakmi
+313,314,Tambora,4.44,1.16,9,Chinese,Indonesian,Coffee,Beverages,Bakmi
+314,315,Penjaringan,4.73,2.79,9,Indonesian,Chinese,Beverages,Coffee,Desserts
+315,316,Pluit,5.0,1.91,9,Indonesian,Chinese,Coffee,Beverages,Desserts
+316,317,Pluit,5.0,1.91,9,Indonesian,Chinese,Coffee,Beverages,Desserts
+317,318,Pluit,5.0,1.91,9,Indonesian,Chinese,Coffee,Beverages,Desserts
+318,319,Beji,4.52,0.0,9,Indonesian,Coffee,Beverages,Desserts,Japanese
+319,320,Jagakarsa,2.53,0.0,9,Indonesian,Coffee,Italian,Betawi,Cafe
+320,321,Jagakarsa,2.53,0.0,9,Indonesian,Coffee,Italian,Betawi,Cafe
+321,322,Jagakarsa,2.53,0.0,9,Indonesian,Coffee,Italian,Betawi,Cafe
+322,323,Jagakarsa,2.53,0.0,9,Indonesian,Coffee,Italian,Betawi,Cafe
+323,324,Fatmawati,4.41,3.93,9,Indonesian,Coffee,Desserts,Beverages,Western
+324,325,Fatmawati,4.41,3.93,9,Indonesian,Coffee,Desserts,Beverages,Western
+325,326,Fatmawati,4.41,3.93,9,Indonesian,Coffee,Desserts,Beverages,Western
+326,327,Fatmawati,4.41,3.93,9,Indonesian,Coffee,Desserts,Beverages,Western
+327,328,Fatmawati,5.0,4.92,9,Coffee,Indonesian,Western,Beverages,Desserts
+328,329,Dharmawangsa,4.95,4.62,9,Indonesian,Coffee,Western,Beverages,Japanese
+329,330,Senopati,5.0,5.0,9,Indonesian,Coffee,Western,Beverages,Japanese
+330,331,SCBD,5.0,5.0,9,Indonesian,Coffee,Desserts,Beverages,Japanese
+331,332,Senayan,5.0,5.0,9,Coffee,Indonesian,Desserts,Japanese,Beverages
+332,333,Bendungan Hilir,4.84,3.18,9,Indonesian,Coffee,Beverages,Japanese,Tea
+333,334,Slipi,3.55,3.08,9,Indonesian,Coffee,Beverages,Jawa,Desserts
+334,335,Slipi,5.0,4.0,9,Indonesian,Coffee,Beverages,Desserts,Japanese
+335,336,Roxy,4.47,0.72,9,Indonesian,Coffee,Beverages,Jawa,Chinese
+336,337,Tambora,4.77,2.53,9,Chinese,Indonesian,Coffee,Beverages,Bakmi
+337,338,Tambora,4.77,2.53,9,Chinese,Indonesian,Coffee,Beverages,Bakmi
+338,339,Kota,4.89,2.25,9,Chinese,Indonesian,Coffee,Beverages,Bakmi
+339,340,Penjaringan,4.73,2.79,9,Indonesian,Chinese,Beverages,Coffee,Desserts
+340,341,Pluit,5.0,1.91,9,Indonesian,Chinese,Coffee,Beverages,Desserts
+341,342,Pluit,5.0,1.91,9,Indonesian,Chinese,Coffee,Beverages,Desserts
+342,343,Beji,4.52,0.0,9,Indonesian,Coffee,Beverages,Desserts,Japanese
+343,344,Jagakarsa,2.53,0.0,9,Indonesian,Coffee,Italian,Betawi,Cafe
+344,345,Jagakarsa,2.53,0.0,9,Indonesian,Coffee,Italian,Betawi,Cafe
+345,346,Jagakarsa,2.53,0.0,9,Indonesian,Coffee,Italian,Betawi,Cafe
+346,347,Jagakarsa,2.53,0.0,9,Indonesian,Coffee,Italian,Betawi,Cafe
+347,348,Cilandak,4.41,3.93,9,Indonesian,Coffee,Desserts,Beverages,Western
+348,349,Cilandak,4.41,3.93,9,Indonesian,Coffee,Desserts,Beverages,Western
+349,350,Cilandak,4.41,3.93,9,Indonesian,Coffee,Desserts,Beverages,Western
+350,351,Kemang,5.0,4.92,9,Coffee,Indonesian,Western,Beverages,Desserts
+351,352,Kemang,5.0,4.92,9,Coffee,Indonesian,Western,Beverages,Desserts
+352,353,Kemang,5.0,4.92,9,Coffee,Indonesian,Western,Beverages,Desserts
+353,354,Senopati,4.22,3.4,9,Indonesian,Coffee,Beverages,Cafe,Desserts
+354,355,Gatot Subroto,5.0,4.88,9,Coffee,Indonesian,Beverages,Desserts,Tea
+355,356,Bendungan Hilir,4.9,4.51,9,Indonesian,Coffee,Beverages,Desserts,Japanese
+356,357,Sudirman,5.0,5.0,9,Indonesian,Coffee,Desserts,Beverages,Western
+357,358,Tanah Abang,5.0,4.0,9,Indonesian,Coffee,Beverages,Desserts,Japanese
+358,359,Tanah Abang,5.0,4.0,9,Indonesian,Coffee,Beverages,Desserts,Japanese
+359,360,Gambir,4.57,1.86,9,Indonesian,Coffee,Chinese,Jawa,Beverages
+360,361,Gajah Mada,4.9,3.02,9,Chinese,Indonesian,Coffee,Bakmi,Beverages
+361,362,Gajah Mada,4.75,3.21,9,Chinese,Indonesian,Coffee,Bakmi,Beverages
+362,363,Kota,4.89,2.25,9,Chinese,Indonesian,Coffee,Beverages,Bakmi
+363,364,Ancol,3.5,1.81,9,Indonesian,Beverages,Fast Food,Desserts,Street Food
+364,365,Beji,4.52,0.0,9,Indonesian,Coffee,Beverages,Desserts,Japanese
+365,366,Jagakarsa,4.52,0.0,9,Indonesian,Coffee,Beverages,Desserts,Japanese
+366,367,Jagakarsa,2.53,0.0,9,Indonesian,Coffee,Italian,Betawi,Cafe
+367,368,Jagakarsa,2.53,0.0,9,Indonesian,Coffee,Italian,Betawi,Cafe
+368,369,Jagakarsa,2.53,0.0,9,Indonesian,Coffee,Italian,Betawi,Cafe
+369,370,Cilandak,4.41,3.93,9,Indonesian,Coffee,Desserts,Beverages,Western
+370,371,Pasar Minggu,3.93,1.35,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+371,372,Kemang,3.93,1.35,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+372,373,Kemang,4.22,3.4,9,Indonesian,Coffee,Beverages,Cafe,Desserts
+373,374,Mampang Prapatan,4.22,3.4,9,Indonesian,Coffee,Beverages,Cafe,Desserts
+374,375,Mampang Prapatan,4.22,3.4,9,Indonesian,Coffee,Beverages,Cafe,Desserts
+375,376,Kuningan,4.95,4.99,9,Coffee,Indonesian,Beverages,Desserts,Tea
+376,377,Setiabudi,4.85,4.46,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+377,378,Setiabudi,4.85,4.46,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+378,379,Menteng,4.95,4.62,9,Indonesian,Coffee,Desserts,Beverages,Western
+379,380,Menteng,4.57,1.86,9,Indonesian,Coffee,Chinese,Jawa,Beverages
+380,381,Gambir,4.57,1.86,9,Indonesian,Coffee,Chinese,Jawa,Beverages
+381,382,Pasar Baru,4.76,2.2,9,Indonesian,Chinese,Coffee,Beverages,Desserts
+382,383,Sawah Besar,4.75,3.21,9,Chinese,Indonesian,Coffee,Bakmi,Beverages
+383,384,Mangga Dua,4.79,2.14,9,Chinese,Indonesian,Coffee,Beverages,Bakmi
+384,385,Ancol,3.5,1.81,9,Indonesian,Beverages,Fast Food,Desserts,Street Food
+385,386,Beji,1.91,0.0,9,Coffee,Indonesian,Desserts,Jawa,Beverages
+386,387,Jagakarsa,2.53,0.0,9,Indonesian,Coffee,Italian,Betawi,Cafe
+387,388,Jagakarsa,2.53,0.0,9,Indonesian,Coffee,Italian,Betawi,Cafe
+388,389,Jagakarsa,2.53,0.0,9,Indonesian,Coffee,Italian,Betawi,Cafe
+389,390,Jagakarsa,3.93,1.35,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+390,391,Pasar Minggu,3.93,1.35,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+391,392,Pasar Minggu,3.93,1.35,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+392,393,Pasar Minggu,3.93,1.35,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+393,394,Mampang Prapatan,3.92,0.64,9,Indonesian,Coffee,Beverages,Desserts,Fast Food
+394,395,Mampang Prapatan,4.22,3.4,9,Indonesian,Coffee,Beverages,Cafe,Desserts
+395,396,Gatot Subroto,4.83,4.84,9,Coffee,Indonesian,Beverages,Desserts,Western
+396,397,Tebet,4.95,4.99,9,Coffee,Indonesian,Beverages,Desserts,Tea
+397,398,Kuningan,4.58,1.12,9,Indonesian,Coffee,Desserts,Beverages,Jawa
+398,399,Menteng,4.92,4.1,9,Indonesian,Coffee,Western,Desserts,Jawa
+399,400,Cikini,4.92,4.1,9,Indonesian,Coffee,Western,Desserts,Jawa
+400,401,Senen,4.29,2.93,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+401,402,Pasar Baru,4.76,2.2,9,Indonesian,Chinese,Coffee,Beverages,Desserts
+402,403,Gunung Sahari,4.07,3.36,9,Indonesian,Chinese,Coffee,Bakmi,Beverages
+403,404,Gunung Sahari,4.07,3.36,9,Indonesian,Chinese,Coffee,Bakmi,Beverages
+404,405,Gunung Sahari,4.07,3.36,9,Indonesian,Chinese,Coffee,Bakmi,Beverages
+405,406,Ancol,3.5,1.81,9,Indonesian,Beverages,Fast Food,Desserts,Street Food
+406,407,Cimanggis,1.91,0.0,9,Coffee,Indonesian,Desserts,Jawa,Beverages
+407,408,Cijantung,3.11,0.0,9,Coffee,Indonesian,Beverages,Fast Food,Desserts
+408,409,Cijantung,3.11,0.0,9,Coffee,Indonesian,Beverages,Fast Food,Desserts
+409,410,Jagakarsa,2.53,0.0,9,Indonesian,Coffee,Italian,Betawi,Cafe
+410,411,Pasar Minggu,3.93,1.35,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+411,412,Pasar Minggu,3.25,0.0,9,Indonesian,Beverages,Japanese,Desserts,Coffee
+412,413,Pasar Minggu,3.25,0.0,9,Indonesian,Beverages,Japanese,Desserts,Coffee
+413,414,Pasar Minggu,3.92,0.64,9,Indonesian,Coffee,Beverages,Desserts,Fast Food
+414,415,Kalibata,3.92,0.64,9,Indonesian,Coffee,Beverages,Desserts,Fast Food
+415,416,Tebet,4.85,3.61,9,Indonesian,Coffee,Desserts,Beverages,Jawa
+416,417,Tebet,4.85,3.61,9,Indonesian,Coffee,Desserts,Beverages,Jawa
+417,418,Manggarai,4.85,3.61,9,Indonesian,Coffee,Desserts,Beverages,Jawa
+418,419,Manggarai,4.58,1.12,9,Indonesian,Coffee,Desserts,Beverages,Jawa
+419,420,Senen,4.29,2.93,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+420,421,Senen,4.29,2.93,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+421,422,Kemayoran,3.58,2.91,9,Indonesian,Coffee,Western,Chinese,Palembang
+422,423,Kemayoran,3.58,2.91,9,Indonesian,Coffee,Western,Chinese,Palembang
+423,424,Sunter,4.56,1.08,9,Indonesian,Chinese,Coffee,Desserts,Beverages
+424,425,Gunung Sahari,4.56,1.08,9,Indonesian,Chinese,Coffee,Desserts,Beverages
+425,426,Ancol,4.56,1.08,9,Indonesian,Chinese,Coffee,Desserts,Beverages
+426,427,Ancol,3.5,1.81,9,Indonesian,Beverages,Fast Food,Desserts,Street Food
+427,428,Cimanggis,1.91,0.0,9,Coffee,Indonesian,Desserts,Jawa,Beverages
+428,429,Cijantung,3.11,0.0,9,Coffee,Indonesian,Beverages,Fast Food,Desserts
+429,430,Cijantung,3.11,0.0,9,Coffee,Indonesian,Beverages,Fast Food,Desserts
+430,431,Cijantung,3.11,0.0,9,Coffee,Indonesian,Beverages,Fast Food,Desserts
+431,432,Kramat Jati,3.25,0.0,9,Indonesian,Beverages,Japanese,Desserts,Coffee
+432,433,Kramat Jati,3.25,0.0,9,Indonesian,Beverages,Japanese,Desserts,Coffee
+433,434,Kramat Jati,3.25,0.0,9,Indonesian,Beverages,Japanese,Desserts,Coffee
+434,435,Kramat Jati,3.25,0.0,9,Indonesian,Beverages,Japanese,Desserts,Coffee
+435,436,Kalibata,3.92,0.64,9,Indonesian,Coffee,Beverages,Desserts,Fast Food
+436,437,Cawang,3.46,0.68,9,Indonesian,Beverages,Coffee,Desserts,Fast Food
+437,438,Tebet,4.85,3.61,9,Indonesian,Coffee,Desserts,Beverages,Jawa
+438,439,Tebet,4.85,3.61,9,Indonesian,Coffee,Desserts,Beverages,Jawa
+439,440,Matraman,3.66,2.15,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+440,441,Matraman,3.66,2.15,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+441,442,Cempaka Putih,3.85,2.0,9,Indonesian,Coffee,Beverages,Jawa,Chinese
+442,443,Cempaka Putih,3.85,2.0,9,Indonesian,Coffee,Beverages,Jawa,Chinese
+443,444,Kemayoran,3.58,2.91,9,Indonesian,Coffee,Western,Chinese,Palembang
+444,445,Kemayoran,4.56,1.08,9,Indonesian,Chinese,Coffee,Desserts,Beverages
+445,446,Sunter,4.56,1.08,9,Indonesian,Chinese,Coffee,Desserts,Beverages
+446,447,Sunter,4.56,1.08,9,Indonesian,Chinese,Coffee,Desserts,Beverages
+447,448,Ancol,3.5,1.81,9,Indonesian,Beverages,Fast Food,Desserts,Street Food
+448,449,Cimanggis,1.91,0.0,9,Coffee,Indonesian,Desserts,Jawa,Beverages
+449,450,Cijantung,2.61,0.0,9,Indonesian,Coffee,Western,Desserts,Bakmi
+450,451,Cijantung,2.18,0.0,9,Coffee,Indonesian,Beverages,Fusion,Betawi
+451,452,Cijantung,2.18,0.0,9,Coffee,Indonesian,Beverages,Fusion,Betawi
+452,453,Cijantung,2.18,0.0,9,Coffee,Indonesian,Beverages,Fusion,Betawi
+453,454,Kramat Jati,3.25,0.0,9,Indonesian,Beverages,Japanese,Desserts,Coffee
+454,455,Kramat Jati,3.25,0.0,9,Indonesian,Beverages,Japanese,Desserts,Coffee
+455,456,Kramat Jati,3.25,0.0,9,Indonesian,Beverages,Japanese,Desserts,Coffee
+456,457,Cawang,3.46,0.68,9,Indonesian,Beverages,Coffee,Desserts,Fast Food
+457,458,Cawang,3.46,0.68,9,Indonesian,Beverages,Coffee,Desserts,Fast Food
+458,459,Kampung Melayu,3.9,2.6,9,Indonesian,Coffee,Jawa,Beverages,Desserts
+459,460,Kampung Melayu,3.9,2.6,9,Indonesian,Coffee,Jawa,Beverages,Desserts
+460,461,Jatinegara,4.01,0.57,9,Indonesian,Beverages,Desserts,Coffee,Street Food
+461,462,Matraman,3.66,2.15,9,Indonesian,Coffee,Beverages,Desserts,Jawa
+462,463,Matraman,3.85,2.0,9,Indonesian,Coffee,Beverages,Jawa,Chinese
+463,464,Cempaka Putih,3.85,2.0,9,Indonesian,Coffee,Beverages,Jawa,Chinese
+464,465,Cempaka Putih,3.85,2.0,9,Indonesian,Coffee,Beverages,Jawa,Chinese
+465,466,Kemayoran,3.58,2.91,9,Indonesian,Coffee,Western,Chinese,Palembang
+466,467,Sunter,4.56,1.08,9,Indonesian,Chinese,Coffee,Desserts,Beverages
+467,468,Sunter,4.56,1.08,9,Indonesian,Chinese,Coffee,Desserts,Beverages
+468,469,Sunter,4.56,1.08,9,Indonesian,Chinese,Coffee,Desserts,Beverages
+469,470,Ancol,2.13,0.55,9,Indonesian,Seafood,Coffee,Chinese,Bakmi
+470,471,Ancol,2.13,0.55,9,Indonesian,Seafood,Coffee,Chinese,Bakmi
+471,472,Cibubur,2.61,0.0,9,Indonesian,Coffee,Western,Desserts,Bakmi
+472,473,Cibubur,2.61,0.0,9,Indonesian,Coffee,Western,Desserts,Bakmi
+473,474,Cipayung,2.18,0.0,9,Coffee,Indonesian,Beverages,Fusion,Betawi
+474,475,Cipayung,2.18,0.0,9,Coffee,Indonesian,Beverages,Fusion,Betawi
+475,476,Cipayung,2.18,0.0,9,Coffee,Indonesian,Beverages,Fusion,Betawi
+476,477,Kramat Jati,2.77,0.0,9,Indonesian,Coffee,Jawa,Fast Food,Beverages
+477,478,Pinang Ranti,3.36,0.0,9,Indonesian,Beverages,Coffee,Fast Food,Desserts
+478,479,Kramat Jati,3.25,0.0,9,Indonesian,Beverages,Japanese,Desserts,Coffee
+479,480,Makasar,1.86,0.0,9,Indonesian,Coffee,American,Desserts,Bakery
+480,481,Makasar,1.86,0.0,9,Indonesian,Coffee,American,Desserts,Bakery
+481,482,Kampung Melayu,3.9,2.6,9,Indonesian,Coffee,Jawa,Beverages,Desserts
+482,483,Kampung Melayu,3.9,2.6,9,Indonesian,Coffee,Jawa,Beverages,Desserts
+483,484,Jatinegara,4.01,0.57,9,Indonesian,Beverages,Desserts,Coffee,Street Food
+484,485,Rawamangun,4.4,0.5,9,Indonesian,Coffee,Beverages,Jawa,Desserts
+485,486,Rawamangun,4.4,0.5,9,Indonesian,Coffee,Beverages,Jawa,Desserts
+486,487,Pulo Gadung,3.96,0.66,9,Indonesian,Coffee,Chinese,Desserts,Jawa
+487,488,Cempaka Putih,3.96,0.66,9,Indonesian,Coffee,Chinese,Desserts,Jawa
+488,489,Kemayoran,3.85,2.0,9,Indonesian,Coffee,Beverages,Jawa,Chinese
+489,490,Sunter,4.56,1.08,9,Indonesian,Chinese,Coffee,Desserts,Beverages
+490,491,Sunter,4.56,1.08,9,Indonesian,Chinese,Coffee,Desserts,Beverages
+491,492,Sunter,2.13,0.55,9,Indonesian,Seafood,Coffee,Chinese,Bakmi
+492,493,Tanjung Priok,2.13,0.55,9,Indonesian,Seafood,Coffee,Chinese,Bakmi
+493,494,Tanjung Priok,2.13,0.55,9,Indonesian,Seafood,Coffee,Chinese,Bakmi
+494,495,Tanjung Priok,2.13,0.55,9,Indonesian,Seafood,Coffee,Chinese,Bakmi
+495,496,Cibubur,2.61,0.0,9,Indonesian,Coffee,Western,Desserts,Bakmi
+496,497,Cibubur,2.61,0.0,9,Indonesian,Coffee,Western,Desserts,Bakmi
+497,498,Cibubur,2.61,0.0,9,Indonesian,Coffee,Western,Desserts,Bakmi
+498,499,Cipayung,2.18,0.0,9,Coffee,Indonesian,Beverages,Fusion,Betawi
+499,500,Cipayung,2.18,0.0,9,Coffee,Indonesian,Beverages,Fusion,Betawi
+500,501,Taman Mini,2.18,0.0,9,Coffee,Indonesian,Beverages,Fusion,Betawi
+501,502,Taman Mini,2.77,0.0,9,Indonesian,Coffee,Jawa,Fast Food,Beverages
+502,503,Pinang Ranti,3.36,0.0,9,Indonesian,Beverages,Coffee,Fast Food,Desserts
+503,504,Makasar,3.36,0.0,9,Indonesian,Beverages,Coffee,Fast Food,Desserts
+504,505,Makasar,1.86,0.0,9,Indonesian,Coffee,American,Desserts,Bakery
+505,506,Makasar,3.65,0.08,9,Coffee,Beverages,Indonesian,Desserts,Street Food
+506,507,Pondok Bambu,3.65,0.08,9,Coffee,Beverages,Indonesian,Desserts,Street Food
+507,508,Jatinegara,3.65,0.08,9,Coffee,Beverages,Indonesian,Desserts,Street Food
+508,509,Jatinegara,4.01,0.57,9,Indonesian,Beverages,Desserts,Coffee,Street Food
+509,510,Rawamangun,4.4,0.5,9,Indonesian,Coffee,Beverages,Jawa,Desserts
+510,511,Rawamangun,3.96,0.66,9,Indonesian,Coffee,Chinese,Desserts,Jawa
+511,512,Pulo Gadung,3.96,0.66,9,Indonesian,Coffee,Chinese,Desserts,Jawa
+512,513,Pulo Gadung,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+513,514,Kelapa Gading,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
+514,515,Sunter,5.0,4.67,9,Indonesian,Coffee,Chinese,Desserts,Beverages
