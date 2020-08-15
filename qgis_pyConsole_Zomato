@@ -1,0 +1,40 @@
+#Skrip ini digunakan untuk request api zomato dengan bantuan python console di QGIS tanpa harus keluar dari QGIS environment. Jangan lupa API key zomatonya diinput.
+import requests
+import ast
+import json
+
+layer=QgsProject.instance().mapLayersByName('zomato_foodie_index copy') #Nama peta hexagon
+
+#ADDING NEW FIELD
+from PyQt5.QtCore import QVariant
+layer_provider=layer.dataProvider()
+
+layer_provider.addAttributes([QgsField("title",QVariant.String)])
+layer_provider.addAttributes([QgsField("top_1",QVariant.String)])
+layer_provider.addAttributes([QgsField("top_2",QVariant.String)])
+layer_provider.addAttributes([QgsField("top_3",QVariant.String)])
+layer_provider.addAttributes([QgsField("top_4",QVariant.String)])
+layer_provider.addAttributes([QgsField("top_5",QVariant.String)])
+
+layer_provider.addAttributes([QgsField("Popularity",QVariant.Double)])
+layer_provider.addAttributes([QgsField("Nightlife",QVariant.Double)])
+
+layer.updateFields()
+print (layer.fields().names())
+
+features = layer.getFeatures()
+layer.startEditing()
+
+base_url = "https://developers.zomato.com/api/v2.1/"
+APIkey='' # YOUR Zomato API KEY
+headers = {'Accept': 'application/json', 'user-key': APIkey}
+
+for f in features:
+    id=f.id()
+    try:
+        r = (requests.get(base_url + "geocode?lat=" + str(f.geometry().centroid().asPoint().y()) + "&lon=" + str(f.geometry().centroid().asPoint().x()), headers=headers).json())
+        attr_value={1:r['location']['title'],2:r['popularity']['top_cuisines'][0],3:r['popularity']['top_cuisines'][1],4:r['popularity']['top_cuisines'][2],5:r['popularity']['top_cuisines'][3],6:r['popularity']['top_cuisines'][4],7:float(r['popularity']['popularity']),8:float(r['popularity']['nightlife_index'])}
+        layer_provider.changeAttributeValues({id:attr_value})
+    except KeyError:
+        continue
+layer.commitChanges()
